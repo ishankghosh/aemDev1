@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wknd-sites-guide.iml" filepath="$PROJECT_DIR$/wknd-sites-guide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/wknd-sites-guide.core.iml" filepath="$PROJECT_DIR$/core/wknd-sites-guide.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/wknd-sites-guide.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/wknd-sites-guide.ui.apps.iml" />
+    </modules>
+  </component>
+</project>
